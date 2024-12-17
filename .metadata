@@ -1,0 +1,64 @@
+(h).a=new A.f(g,k-n)
+if(!j){n=o.b
+n.toString
+e.a(n).a=new A.f(f-o.gt().a,k-i)}break
+case 0:g=q-a1.u.a.a-A.ek(r.h(0,B.ai)).a
+f=a1.u.a.c
+h=r.h(0,B.bf)
+h.toString
+h=h.b
+h.toString
+e=t.q
+e.a(h)
+d=r.h(0,B.bf)
+d.toString
+h.a=new A.f(g-d.gt().a,k-n)
+if(!j){o=o.b
+o.toString
+e.a(o).a=new A.f(f,k-i)}break
+default:f=a2
+g=f}c=new A.abr(s.b)
+switch(a1.N.a){case 0:if(r.h(0,B.Y)!=null){g+=a1.u.a.a
+o=r.h(0,B.Y)
+o.toString
+g-=l.$2(o,g-r.h(0,B.Y).gt().a)}if(r.h(0,B.a_)!=null){o=r.h(0,B.a_)
+o.toString
+l.$2(o,g-r.h(0,B.a_).gt().a)}if(r.h(0,B.aF)!=null){o=r.h(0,B.aF)
+o.toString
+g-=c.$2(o,g-r.h(0,B.aF).gt().a)}if(r.h(0,B.ay)!=null){o=r.h(0,B.ay)
+o.toString
+c.$2(o,g-r.h(0,B.ay).gt().a)}if(r.h(0,B.aE)!=null){o=r.h(0,B.aE)
+o.toString
+c.$2(o,g-r.h(0,B.aE).gt().a)}if(r.h(0,B.ar)!=null){f-=a1.u.a.c
+o=r.h(0,B.ar)
+o.toString
+f+=l.$2(o,f)}if(r.h(0,B.aG)!=null){o=r.h(0,B.aG)
+o.toString
+c.$2(o,f)}break
+case 1:if(r.h(0,B.Y)!=null){g-=a1.u.a.a
+o=r.h(0,B.Y)
+o.toString
+g+=l.$2(o,g)}if(r.h(0,B.a_)!=null){o=r.h(0,B.a_)
+o.toString
+l.$2(o,g)}if(r.h(0,B.aF)!=null){o=r.h(0,B.aF)
+o.toString
+g+=c.$2(o,g)}if(r.h(0,B.ay)!=null){o=r.h(0,B.ay)
+o.toString
+c.$2(o,g)}if(r.h(0,B.aE)!=null){o=r.h(0,B.aE)
+o.toString
+c.$2(o,g)}if(r.h(0,B.ar)!=null){f+=a1.u.a.c
+o=r.h(0,B.ar)
+o.toString
+f-=l.$2(o,f-r.h(0,B.ar).gt().a)}if(r.h(0,B.aG)!=null){o=r.h(0,B.aG)
+o.toString
+c.$2(o,f-r.h(0,B.aG).gt().a)}break}if(r.h(0,B.a_)!=null){o=r.h(0,B.a_).b
+o.toString
+b=t.q.a(o).a.a
+a=A.ek(r.h(0,B.a_)).a*0.75
+switch(a1.N.a){case 0:o=r.h(0,B.Y)
+a0=o!=null?a1.aL?A.ek(r.h(0,B.Y)).a-a1.u.a.c:0:0
+a1.u.r.sxL(A.L(b+A.ek(r.h(0,B.a_)).a+a0,A.ek(p).a/2+a/2,0))
+break
+case 1:o=r.h(0,B.Y)
+a0=o!=null?a1.aL?-A.ek(r.h(0,B.Y)).a+a1.u.a.a:0:0
+a1.u.r.sxL(A.L(b-A.ek(r.h(0,B.a
